@@ -42,7 +42,12 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="793" height="366" alt="image" src="https://github.com/user-attachments/assets/4bff323e-079b-46f8-acee-9f3bba278b13" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="782" height="472" alt="image" src="https://github.com/user-attachments/assets/03a85dcf-2064-4fa3-a8ac-2b36245be50c" />
+
 
 **RESULTS**
+Thus the JK flipflop is implemented and verified.
